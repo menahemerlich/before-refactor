@@ -49,3 +49,4 @@ printAll();
 markAsDone(1);
 removeTaskById(999);
 printAll();
+console.log("hello")
